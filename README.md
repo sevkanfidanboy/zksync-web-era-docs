@@ -25,6 +25,8 @@ $ yarn set version berry
 ```
 
 ### Main scripts
+```bash
+```bash
 
 ```bash
 # install dependencies
